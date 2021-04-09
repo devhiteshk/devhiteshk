@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Vehicle Technology 
 - 📫 Reach me by #https://thexcaliber.github.io
-- 🎀 I have huge aspirations, maybe one day my dreams come true.
+- 🎀 Maybe one day my dreams come true.
   # <img src="https://www.codewars.com/users/thexcaliber/badges/large">
 
 <!---
