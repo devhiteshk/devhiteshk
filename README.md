@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thexcaliber
+- 👋 Hi, I’m Hitesh Kumar @thecxcaliber
 - 👀 I’m interested in Cars, Python, HTML and CSS
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Vehicle Technology 
