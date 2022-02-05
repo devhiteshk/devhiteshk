@@ -45,11 +45,11 @@
 
 <img align="left" alt="Codewars" src="https://www.codewars.com/users/thexcaliber/badges/large" />
 <br />
-<br />
 
 ### hackerrank profile -> [hitesh_k_83080](https://www.hackerrank.com/hitesh_k_83080)
-<br />
-* Python          -  ⭐⭐⭐⭐⭐
-* C++             -  ⭐⭐⭐
-* Problem Solving -  ⭐
+
+* Python          -  ⭐⭐⭐⭐⭐  
+* C++             -  ⭐⭐⭐  
+* Problem Solving -  ⭐  
+
 <br />
