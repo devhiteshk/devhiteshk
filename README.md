@@ -47,5 +47,5 @@
 <br />
 <br />
 
-hackerrank profile -> [hitesh_k_93080][https://www.hackerrank.com/hitesh_k_83080]
+hackerrank profile -> [hitesh_k_93080](https://www.hackerrank.com/hitesh_k_83080)
 
