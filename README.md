@@ -42,5 +42,5 @@
 
 <br />
 
-<https://www.codewars.com/users/thexcaliber/badges/large>
+<img align="left" alt="Codewars" src="https://www.codewars.com/users/thexcaliber/badges/large" />
 <br />
