@@ -48,7 +48,8 @@
 <br />
 
 ### hackerrank profile -> [hitesh_k_83080](https://www.hackerrank.com/hitesh_k_83080)
--Python          -  ⭐⭐⭐⭐⭐
--C++             -  ⭐⭐⭐
--Problem Solving -  ⭐
+<br />
+* Python          -  ⭐⭐⭐⭐⭐
+* C++             -  ⭐⭐⭐
+* Problem Solving -  ⭐
 <br />
