@@ -44,4 +44,8 @@
 <br />
 
 <img align="left" alt="Codewars" src="https://www.codewars.com/users/thexcaliber/badges/large" />
+<br />
+<br />
+
+hackerrank profile -> [hitesh_k_93080][https://www.hackerrank.com/hitesh_k_83080]
 
