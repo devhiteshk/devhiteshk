@@ -6,10 +6,11 @@
 ## I'm an Automotive Engineer, Developer and Foodie !!!
 
 - 🔭 I am learning DSA and MERN development
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- ⚡ Looking forward to work on awesome projects which make an impact on society.
 - 🥅 2022 Goals: To do some awesome projects and make new friends
-- ⚡ I like food and love to travel
+- 🌱 I love food along with pinapple juice
+
+
 
 <!-- ### Connect with me:
 
