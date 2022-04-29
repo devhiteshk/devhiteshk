@@ -10,6 +10,7 @@
 - 🥅 2022 Goals: To do some awesome projects and make new friends
 - 🌱 I love food along with pinapple juice
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thexcaliber)](https://github.com/thexcaliber/github-readme-stats)
 
 
 <!-- ### Connect with me:
