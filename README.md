@@ -1,57 +1,175 @@
-### Hi there, I'm Hitesh 👋
+<p align="center"><img align="center" src="./blobs/banner.svg" alt="Hitesh" /></p>
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+<p align="center">
+	<a href="mailto:dev.hitesh.k@gmail.com" target="_blank" align="center">Send Email</a> |
+	<a href="#" target="_blank" align="center">Portfolio</a> <!-- |
+	<a href="https://polywork.com/" target="_blank" align="center">Polywork</a> -->
+</p>
 
-## I'm an Automotive Engineer, Developer and Foodie !!!
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://discord.com/channels/969704147509194853" align="center" target="blank">
+<img src="https://img.shields.io/discord/969704147509194853?style=flat-square" alt="My discord Server" height="28px"/>
+</a> <a href="https://www.linkedin.com/in/imhitesh/" align="center" target="blank">
+	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Hitesh Kumar"
+	/>
+</a>
+</p>
+<hr />
 
-- 🔭 I am learning DSA and MERN development
-- ⚡ Looking forward to work on awesome projects which make an impact on society.
-- 🥅 2022 Goals: To do some awesome projects and make new friends
-- 🌱 I love food along with pinapple juice
+<!-- Streak -->
+<p align="center">
+<a href="#">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thexcaliber&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DDDDDD&ring=DD9F12&fire=DD2727&currStreakNum=BDDD19&sideNums=DDDDDD&sideLabels=96DD52&currStreakLabel=74DDCF&dates=DDDDDD&background=00000000" alt="My Git ststs" />
+</a>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thexcaliber)](https://github.com/thexcaliber/github-readme-stats)
-
-
-<!-- ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
-<br />
-
-### Languages and Tools I am familiar with:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<!-- [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist] -->
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist] -->
-<!-- [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist] -->
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist] -->
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<!-- [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
+<!-- Activity graph -->
+<p align="center">
+<a href="#">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=thexcaliber&theme=github&bg_color=ffffff00&color=ffffff&point=ffffff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="My monthly coding activity" />
+</a>
+</p>
 
 <br />
-<br />
 
-<img align="left" alt="Codewars" src="https://www.codewars.com/users/thexcaliber/badges/large" />
-<br />
+<!-- Trophies -->
+<p align="center">
+<a href="#"><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=thexcaliber&title=MultipleLang,Commits,Repositories&theme=onedark&no-bg=true&no-frame=true&row=1&column=3" alt="thexcaliber Trophies" /></div></a></p>
 
-### hackerrank profile -> [hitesh_k_83080](https://www.hackerrank.com/hitesh_k_83080)
+<hr />
 
-* Python          -  ⭐⭐⭐⭐⭐  
-* C++             -  ⭐⭐⭐  
-* Problem Solving -  ⭐  
+<details align="center">
+  <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
+	<p align="center">
+		Hi, I'm Hitesh, a MERN stack developer and Automotive Engineer, I am student at Amrita school of Engineering, Coimbatore pursuing M Tech. in Automotive Engineering, I have passion for coding and I love developing full stack websites.<br /><br />
+		Other than coding, I have interests in Food🍔 and Music 🎶. I like to cook 🍳 food and play chess ♟. I spend most of my time building something I like, When I don’t, I watch motivational movies 🎥 <br /><br />
+		I have an introvert personality, so sometimes you might find me busy in my own world. I am highly excited and motivated to become a Software Developer Engineer. <br /><br />
+		I like instrumental music one of my favourite is <a href="https://www.youtube.com/watch?v=3K9P9f3G3l0&ab_channel=JoelNielsenMusic" target="_blank" >Ascension -by Nielsen Music</a>
+	</p>
+<hr />
+<details>
+	<summary><h3 style="display: inline;">What do I know?</h3></summary>
+	<h4 align="center">Languages and Libraries</h4>
+	<p align="center">
+	<table align="center">
+		<tr align="center">
+			<td align="center" width="96">
+				<img align="center" alt="HTML5" width="30px" src="./blobs/languages/html.svg" />
+				<br />HTML
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="CSS3" width="30px" src="./blobs/languages/css.svg" />
+				<br />CSS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="JS" width="30px" src="./blobs/languages/javascript-rounded.svg" />
+				<br />JS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="TS" width="30px" src="./blobs/languages/typescript.svg" />
+				<br />TS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="Sass" width="30px" src="./blobs/libraries/sass.svg" />
+				<br />Sass
+			</td>
+			<!-- <td align="center" width="96">
+				<img align="center" alt="Styled components" width="30px" src="./blobs/libraries/styled-components.svg" />
+				<br />Styled
+			</td> -->
+			<td align="center" width="96">
+				<img align="center" alt="Java" width="30px" src="./blobs/languages/java.svg" />
+				<br />Java
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="Python" width="30px" src="./blobs/languages/python.svg" />
+				<br />Python
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="NodeJS" width="30px" src="./blobs/libraries/nodejs.svg" />
+				<br />NodeJS
+			</td>
+			<!-- <td align="center" width="96">
+				<img align="center" alt="NestJS" width="30px" src="./blobs/libraries/nestjs.svg" />
+				<br />NestJS
+			</td> -->
+			<td align="center" width="96">
+				<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
+				<br />React
+			</td>
+			<!-- <td align="center" width="96">
+				<img align="center" alt="NextJS" width="30px" src="./blobs/libraries/next-js.svg" />
+				<br />NextJS
+			</td> -->
+			<!-- <td align="center" width="96">
+				<img align="center" alt="Jest" width="30px" src="./blobs/libraries/jest.svg" />
+				<br />Jest
+			</td> -->
+		</tr>
+	</table>
+	</p>
+	<h4 align="center">Tools and other stuff</h4>
+	<p align="center">
+	<table>
+		<tr>
+			<td align="center" width="96">
+				<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
+				<br />MongoDB
+			</td>
+			<!-- <td align="center" width="96">
+				<img align="center" alt="sequelize orm" width="30px" src="./blobs/tools/sequelize.svg" />
+				<br />Sequelize
+			</td> -->
+			<td align="center" width="96">
+				<img align="center" alt="auth0" width="30px" src="./blobs/tools/auth0.svg" />
+				<br />Auth0
+			</td>
+			<!-- <td align="center" width="96">
+				<img align="center" alt="figma" width="30px" src="./blobs/tools/figma.svg" />
+				<br />Figma
+			</td> -->
+			<td align="center" width="96">
+				<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
+				<br />Heroku
+			</td>
+			<!-- <td align="center" width="96">
+				<img align="center" alt="netlify" width="30px" src="./blobs/tools/netlify.svg" />
+				<br />Netlify
+			</td> -->
+			<!-- <td align="center" width="96">
+				<img align="center" alt="vercel" width="30px" src="./blobs/tools/vercel.svg" />
+				<br />Vercel
+			</td> -->
+			<td align="center" width="96">
+				<img align="center" alt="prettier" width="30px" src="./blobs/tools/prettier.svg" />
+				<br />Prettier
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="eslint" width="30px" src="./blobs/tools/eslint.svg" />
+				<br />ESlint
+			</td>
+		</tr>
+	</table>
+	</p>
+	<hr />
 
-<br />
+<details align="center">
+  <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
+	<table align="center">
+		<tr>
+		<td align="center">
+		 <a href="#go-nowhere">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thexcaliber&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
+			</a>
+		</td>
+		<td align="center">
+		 <a href="#go-nowhere">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thexcaliber&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+			</a>
+		</td>
+	</table>
+	  <p align="center"> The above stats only show the languages I have used the most and does not relate to my expertise in it.</p>
+</details>
+</details>
+</details>
