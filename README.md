@@ -111,8 +111,8 @@
 	</p>
 	<h4 align="center">Tools and other stuff</h4>
 	<p align="center">
-	<table>
-		<tr>
+	<table align="center">
+		<tr align="center">
 			<td align="center" width="96">
 				<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
 				<br />MongoDB
@@ -120,6 +120,7 @@
 			<!-- <td align="center" width="96">
 				<img align="center" alt="sequelize orm" width="30px" src="./blobs/tools/sequelize.svg" />
 				<br />Sequelize
+				some random comment
 			</td> -->
 			<td align="center" width="96">
 				<img align="center" alt="auth0" width="30px" src="./blobs/tools/auth0.svg" />
