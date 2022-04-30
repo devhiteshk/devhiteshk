@@ -19,14 +19,14 @@
 
 <!-- Streak -->
 <p align="center">
-<a href="#">
+<a href="#NoRoute">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thexcaliber&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DDDDDD&ring=DD9F12&fire=DD2727&currStreakNum=BDDD19&sideNums=DDDDDD&sideLabels=96DD52&currStreakLabel=74DDCF&dates=DDDDDD&background=00000000" alt="My Git ststs" />
 </a>
 </p>
 
 <!-- Activity graph -->
 <p align="center">
-<a href="#">
+<a href="#NoRoute">
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=thexcaliber&theme=github&bg_color=ffffff00&color=ffffff&point=ffffff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="My monthly coding activity" />
 </a>
 </p>
