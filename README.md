@@ -8,9 +8,9 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://discord.com/channels/969704147509194853" align="center" target="blank">
+<a href="https://discord.com/channels/969704147509194853" align="center" target="_blank">
 <img src="https://img.shields.io/discord/969704147509194853?style=flat-square" alt="My discord Server" height="28px"/>
-</a> <a href="https://www.linkedin.com/in/imhitesh/" align="center" target="blank">
+</a> <a href="https://www.linkedin.com/in/imhitesh/" align="center" target="_blank">
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Hitesh Kumar"
 	/>
 </a>
