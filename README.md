@@ -2,15 +2,15 @@
 
 <p align="center">
 	<a href="mailto:dev.hitesh.k@gmail.com" target="_blank" align="center">Send Email</a> |
-	<a href="#" target="_blank" align="center">Portfolio</a> <!-- |
+	<a href="#NoRoute" target="_blank" align="center">Portfolio</a> <!-- |
 	<a href="https://polywork.com/" target="_blank" align="center">Polywork</a> -->
 </p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://discord.com/channels/969704147509194853" align="center" target="_blank">
+<a href="https://discord.com/channels/969704147509194853" align="center" onclick='window.open("http://www.foracure.org.au");return false;' target="_blank">
 <img src="https://img.shields.io/discord/969704147509194853?style=flat-square" alt="My discord Server" height="28px"/>
-</a> <a href="https://www.linkedin.com/in/imhitesh/" align="center" target="_blank">
+</a> <a href="https://www.linkedin.com/in/imhitesh/" align="center" onclick='window.open("http://www.foracure.org.au");return false;' target="_blank">
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Hitesh Kumar"
 	/>
 </a>
