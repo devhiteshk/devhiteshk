@@ -35,7 +35,7 @@
 
 <!-- Trophies -->
 <p align="center">
-<a href="#"><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=thexcaliber&title=MultipleLang,Commits,Repositories&theme=onedark&no-bg=true&no-frame=true&row=1&column=3" alt="thexcaliber Trophies" /></div></a></p>
+<a href="#NoRoute"><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=thexcaliber&title=MultipleLang,Commits,Repositories&theme=onedark&no-bg=true&no-frame=true&row=1&column=3" alt="thexcaliber Trophies" /></div></a></p>
 
 <hr />
 
