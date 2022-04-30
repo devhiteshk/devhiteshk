@@ -20,14 +20,14 @@
 <!-- Streak -->
 <p align="center">
 <a href="#NoRoute">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thexcaliber&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DDDDDD&ring=DD9F12&fire=DD2727&currStreakNum=BDDD19&sideNums=DDDDDD&sideLabels=96DD52&currStreakLabel=74DDCF&dates=DDDDDD&background=00000000" alt="My Git ststs" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devhiteshk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DDDDDD&ring=DD9F12&fire=DD2727&currStreakNum=BDDD19&sideNums=DDDDDD&sideLabels=96DD52&currStreakLabel=74DDCF&dates=DDDDDD&background=00000000" alt="My Git ststs" />
 </a>
 </p>
 
 <!-- Activity graph -->
 <p align="center">
 <a href="#NoRoute">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=thexcaliber&theme=github&bg_color=ffffff00&color=ffffff&point=ffffff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="My monthly coding activity" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=devhiteshk&theme=github&bg_color=ffffff00&color=ffffff&point=ffffff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="My monthly coding activity" />
 </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 <!-- Trophies -->
 <p align="center">
-<a href="#NoRoute"><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=thexcaliber&title=MultipleLang,Commits,Repositories&theme=onedark&no-bg=true&no-frame=true&row=1&column=3" alt="thexcaliber Trophies" /></div></a></p>
+<a href="#NoRoute"><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=devhiteshk&title=MultipleLang,Commits,Repositories&theme=onedark&no-bg=true&no-frame=true&row=1&column=3" alt="thexcaliber Trophies" /></div></a></p>
 
 <hr />
 
@@ -161,12 +161,12 @@
 		<tr>
 		<td align="center">
 		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thexcaliber&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devhiteshk&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
 			</a>
 		</td>
 		<td align="center">
 		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thexcaliber&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhiteshk&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
 			</a>
 		</td>
 	</table>
