@@ -161,7 +161,7 @@
 		<tr>
 		<td align="center">
 		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/wakatime?username=devhiteshk&theme=onedark&bg_color=ffffff00&hide_border=true&langs_count=10">
+			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/wakatime?username=devhiteshk&theme=monokai&bg_color=ffffff00&hide_border=true&langs_count=10">
 			</a>
 		</td>
 		<td align="center">
