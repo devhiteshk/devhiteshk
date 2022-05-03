@@ -166,7 +166,7 @@
 		</td>
 		<td align="center">
 		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/top-langs/?username=devhiteshk&langs_count=10&layout=compact&theme=onedark&bg_color=ffffff00&hide_border=true">
+			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/top-langs/?username=devhiteshk&langs_count=10&layout=compact&theme=monokai&bg_color=ffffff00&hide_border=true">
 			</a>
 		</td>
 	</table>
