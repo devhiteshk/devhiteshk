@@ -1,3 +1,21 @@
+<details align="center">
+  <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
+	<table align="center">
+		<tr>
+		<td align="center">
+		 <a href="#go-nowhere">
+			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/wakatime?username=devhiteshk&theme=monokai_custom&bg_color=ffffff00&hide_border=true&langs_count=10">
+			</a>
+		</td>
+		<td align="center">
+		 <a href="#go-nowhere">
+			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/top-langs/?username=devhiteshk&langs_count=10&layout=compact&theme=monokai_custom&bg_color=ffffff00&hide_border=true">
+			</a>
+		</td>
+	</table>
+	  <p align="center"><small> The above stats only show the languages I have used the most and does not relate to my expertise in it.</small></p>
+</details>
+
 <p align="center"><img align="center" src="./blobs/banner.svg" alt="Hitesh" /></p>
 
 <p align="center">
