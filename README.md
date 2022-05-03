@@ -161,12 +161,12 @@
 		<tr>
 		<td align="center">
 		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devhiteshk&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
+			<img align="center" src="http://github-readme-stats-thexcaliber.vercel.app/api/wakatime?username=devhiteshk&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
 			</a>
 		</td>
 		<td align="center">
 		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhiteshk&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+			<img align="center" src="https://http://github-readme-stats-thexcaliber.vercel.app/api/top-langs/?username=devhiteshk&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
 			</a>
 		</td>
 	</table>
