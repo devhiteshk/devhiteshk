@@ -1,4 +1,4 @@
-<div class="container" style="background-color=black;">
+
 <p align="center"><img align="center" src="./blobs/banner.svg" alt="Hitesh" /></p>
 
 <p align="center">
@@ -175,4 +175,4 @@
 </details>
 </details>
 </details>
-</div>
+
