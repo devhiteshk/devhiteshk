@@ -28,7 +28,7 @@
 <!-- Activity graph -->
 <p align="center">
 <a href="#NoRoute">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=devhiteshk&theme=github&bg_color=ffffff00&color=ffffff&point=ffffff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="My monthly coding activity" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=devhiteshk&theme=holi-theme&bg_color=ffffff00&color=ffffff&point=ffffff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="My monthly coding activity" />
 </a>
 </p>
 
