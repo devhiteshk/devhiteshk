@@ -1,4 +1,3 @@
-
 <p align="center"><img align="center" src="./blobs/banner.svg" alt="Hitesh" /></p>
 
 <p align="center">
@@ -34,24 +33,17 @@
 
 <br />
 
-<!-- Trophies -->
-<p align="center">
-<a href="#NoRoute"><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=devhiteshk&title=MultipleLang,Commits,Repositories&theme=onedark&no-bg=true&no-frame=true&row=1&column=3" alt="thexcaliber Trophies" /></div></a></p>
-
-<hr />
-
-<details align="center">
+<!-- <details align="center">
   <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
 	<p align="center">
 		Hi, I'm Hitesh, a MERN stack developer and Automotive Engineer, I am student at Amrita school of Engineering, Coimbatore pursuing M Tech. in Automotive Engineering, I have passion for coding and I love developing full stack websites.<br /><br />
 		Other than coding, I have interests in Food🍔 and Music 🎶. I like to cook 🍳 food and play chess ♟. I spend most of my time building something I like, When I don’t, I watch motivational movies 🎥 <br /><br />
 		I have an introvert personality, so sometimes you might find me busy in my own world. I am highly excited and motivated to become a Software Developer Engineer. <br /><br />
 		I like instrumental music one of my favourite is <a href="https://www.youtube.com/watch?v=3K9P9f3G3l0&ab_channel=JoelNielsenMusic" target="_blank" >Ascension -by Nielsen Music</a>
-	</p>
+	</p> -->
 <hr />
-<details>
-	<summary><h3 style="display: inline;">What do I know?</h3></summary>
-	<h4 align="center">Languages and Libraries</h4>
+
+<summary align="center"><h3 style="display: inline;">Languages and Libraries</h3></summary>
 	<p align="center">
 	<table align="center">
 		<tr align="center">
@@ -75,14 +67,7 @@
 				<img align="center" alt="Sass" width="30px" src="./blobs/libraries/sass.svg" />
 				<br />Sass
 			</td>
-			<!-- <td align="center" width="96">
-				<img align="center" alt="Styled components" width="30px" src="./blobs/libraries/styled-components.svg" />
-				<br />Styled
-			</td> -->
-			<td align="center" width="96">
-				<img align="center" alt="Java" width="30px" src="./blobs/languages/java.svg" />
-				<br />Java
-			</td>
+		<tr align="center">
 			<td align="center" width="96">
 				<img align="center" alt="Python" width="30px" src="./blobs/languages/python.svg" />
 				<br />Python
@@ -99,6 +84,14 @@
 				<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
 				<br />React
 			</td>
+			<td align="center" width="96">
+				<img align="center" alt="React" width="30px" src="./blobs/libraries/C++.svg" />
+				<br />C++
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="React" width="30px" src="./blobs/libraries/MATLAB.png" />
+				<br />MATLAB
+			</td>
 			<!-- <td align="center" width="96">
 				<img align="center" alt="NextJS" width="30px" src="./blobs/libraries/next-js.svg" />
 				<br />NextJS
@@ -109,8 +102,8 @@
 			</td> -->
 		</tr>
 	</table>
-	</p>
-	<h4 align="center">Tools and other stuff</h4>
+	</p><hr>
+	<h3 align="center">Tools and other stuff</h3>
 	<p align="center">
 	<table align="center">
 		<tr align="center">
@@ -156,8 +149,7 @@
 	</p>
 	<hr />
 
-<details align="center">
-  <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
+<summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
 	<table align="center">
 		<tr>
 		<td align="center">
@@ -171,8 +163,11 @@
 			</a>
 		</td>
 	</table>
-	  <p style="font-size=5px;"align="center"><small> The above stats only show the languages I have used the most and does not relate to my expertise in it.</small></p>
-</details>
-</details>
-</details>
+	  <p style="font-size=3px;"align="center"><small> *The above stats only show the languages I have used the most and does not relate to my expertise in it.</small></p>
 
+<hr />
+
+<!-- Trophies -->
+<p align="center">
+<a href="#NoRoute"><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=devhiteshk&theme=radical&no-bg=true&no-frame=true&row=1&column=5" alt="thexcaliber Trophies" /></div></a></p>
+<hr />
