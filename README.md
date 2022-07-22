@@ -89,7 +89,7 @@
 				<br />C++
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="MATLAB" width="30px" src="./blobs/libraries/MATLAB_Logo.png" />
+				<img align="center" alt="MATLAB" width="30px" src="./blobs/libraries/MATLAB.svg" />
 				<br />MATLAB
 			</td>
 			<!-- <td align="center" width="96">
