@@ -85,11 +85,11 @@
 				<br />React
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="React" width="30px" src="./blobs/libraries/C++.svg" />
+				<img align="center" alt="C++" width="30px" src="./blobs/libraries/C++.svg" />
 				<br />C++
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="React" width="30px" src="./blobs/libraries/MATLAB.png" />
+				<img align="center" alt="MATLAB" width="30px" src="./blobs/libraries/MATLAB_Logo.png" />
 				<br />MATLAB
 			</td>
 			<!-- <td align="center" width="96">
