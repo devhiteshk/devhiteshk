@@ -43,7 +43,7 @@
 	</p> -->
 <hr />
 
-<summary align="center"><h3 style="display: inline;">Languages and Libraries</h3></summary>
+<h3 align="center">Languages and Libraries</h3>
 	<p align="center">
 	<table align="center">
 		<tr align="center">
@@ -149,7 +149,7 @@
 	</p>
 	<hr />
 
-<summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
+<h3 align="center">What do I do?<h3>
 	<table align="center">
 		<tr>
 		<td align="center">
