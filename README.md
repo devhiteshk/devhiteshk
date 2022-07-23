@@ -163,8 +163,6 @@
 			</a>
 		</td>
 	</table>
-	  <p style="font-size=3px;"align="center"><small> *The above stats only show the languages I have used the most and does not relate to my expertise in it.</small></p>
-
 <hr />
 
 <!-- Trophies -->
