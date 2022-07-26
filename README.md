@@ -20,7 +20,7 @@
 <!-- Streak -->
 <p align="center">
 <a href="#NoRoute">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devhiteshk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DDDDDD&ring=DD9F12&fire=DD2727&currStreakNum=BDDD19&sideNums=DDDDDD&sideLabels=96DD52&currStreakLabel=74DDCF&dates=DDDDDD&background=00000000" alt="My Git ststs" />
+<img align="center" src="https://github-readme-streak-stats-hk.herokuapp.com?user=devhiteshk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DDDDDD&ring=DD9F12&fire=DD2727&currStreakNum=BDDD19&sideNums=DDDDDD&sideLabels=96DD52&currStreakLabel=74DDCF&dates=DDDDDD&background=00000000" alt="My Git ststs" />
 </a>
 </p>
 
