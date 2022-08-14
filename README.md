@@ -29,7 +29,7 @@
 <!-- Activity graph -->
 <p align="center">
 <a href="#NoRoute">
-<img align="center" src="https://activity-graph-devhk.herokuapp.com/graph?username=devhiteshk&theme=holi-theme&bg_color=0D111700&color=ffffff&point=ffffff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="My monthly coding activity" />
+<img align="center" src="https://activity-graph-devhk.herokuapp.com/graph?username=devhiteshk&theme=holi-theme&bg_color=0D1117&color=ffffff&point=ffffff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="My monthly coding activity" />
 </a>
 </p>
 
@@ -156,12 +156,12 @@
 		<tr>
 		<td align="center">
 		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/wakatime?username=devhiteshk&theme=calm_cus&bg_color=0D111700&hide_border=true&langs_count=10&v=1">
+			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/wakatime?username=devhiteshk&theme=calm_cus&bg_color=0D1117&hide_border=true&langs_count=10&v=1">
 			</a>
 		</td>
 		<td align="center">
 		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/top-langs/?username=devhiteshk&langs_count=10&layout=compact&theme=calm_cus&bg_color=0D111700&hide_border=true">
+			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/top-langs/?username=devhiteshk&langs_count=10&layout=compact&theme=calm_cus&bg_color=0D1117&hide_border=true">
 			</a>
 		</td>
 	</table>
@@ -169,5 +169,5 @@
 
 <!-- Trophies -->
 <p align="center">
-<a href="#NoRoute"><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=devhiteshk&theme=radical&no-frame=true&row=1&column=5" alt="thexcaliber Trophies" /></div></a></p>
+<a href="#NoRoute"><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=devhiteshk&theme=radical&no-frame=true&row=1&column=5&bg_color=0D1117" alt="thexcaliber Trophies" /></div></a></p>
 <hr />
