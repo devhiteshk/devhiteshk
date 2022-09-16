@@ -1,5 +1,3 @@
-#0d1117
-
 <p align="center"><img align="center" src="./blobs/banner.svg" alt="Hitesh" /></p>
 
 <p align="center">
@@ -35,7 +33,7 @@
 
 <br />
 
-<!-- <details align="center">
+<!-- <details align="center"> #0d1117
   <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
 	<p align="center">
 		Hi, I'm Hitesh, a MERN stack developer and Automotive Engineer, I am student at Amrita school of Engineering, Coimbatore pursuing M Tech. in Automotive Engineering, I have passion for coding and I love developing full stack websites.<br /><br />
