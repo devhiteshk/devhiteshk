@@ -1,8 +1,8 @@
 <p align="center"><img align="center" src="./blobs/banner.svg" alt="Hitesh" /></p>
 
 <p align="center">
-	<a href="mailto:dev.hitesh.k@gmail.com" target="_blank" align="center">Send Email</a> |
-	<a href="#NoRoute" target="_blank" align="center">Portfolio</a> <!-- |
+	<a href="mailto:me@hiteshk.dev" target="_blank" align="center">Send Email</a> |
+	<a href="https://hiteshk.dev" target="_blank" align="center">Portfolio</a> <!-- |
 	<a href="https://polywork.com/" target="_blank" align="center">Polywork</a> -->
 </p>
 
