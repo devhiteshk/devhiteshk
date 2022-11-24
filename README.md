@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-<a href="https://www.hackerrank.com/hitesh_k_83080"><img src="https://img.shields.io/badge/HackerRank-hitesh_k_83080-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black"/> &nbsp </a>
-<a href="https://www.codewars.com/users/devhiteshk"><img src="https://img.shields.io/badge/Codewars-devhiteshk-maroon?logo=codewars&logoColor=maroon&labelColor=black"></a>&nbsp &nbsp 
-<a href="https://www.codechef.com/users/hiteshk83080"><img src="https://img.shields.io/badge/CodeChef-devhiteshk-grey?logo=codechef&logoColor=black&labelColor=white"></a>
+<a href="https://www.hackerrank.com/hitesh_k_83080" target="_blank"><img src="https://img.shields.io/badge/HackerRank-hitesh_k_83080-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black"/> &nbsp </a>
+<a href="https://www.codewars.com/users/devhiteshk" target="_blank"><img src="https://img.shields.io/badge/Codewars-devhiteshk-maroon?logo=codewars&logoColor=maroon&labelColor=black"></a>&nbsp &nbsp 
+<a href="https://www.codechef.com/users/hiteshk83080" target="_blank"><img src="https://img.shields.io/badge/CodeChef-devhiteshk-grey?logo=codechef&logoColor=black&labelColor=white"></a>
 </p>
 
 <h3 align="center">Connect with me</h3>
