@@ -6,6 +6,17 @@
 	<a href="https://polywork.com/" target="_blank" align="center">Polywork</a> -->
 </p>
 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/devhiteshk/count.svg" />
+</p>
+
+<p align="center">
+<a href="https://www.hackerrank.com/hitesh_k_83080"><img src="https://img.shields.io/badge/HackerRank-hitesh_k_83080-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black"/> &nbsp </a>
+<a href="https://www.codewars.com/users/devhiteshk"><img src="https://img.shields.io/badge/Codewars-devhiteshk-maroon?logo=codewars&logoColor=maroon&labelColor=black"></a>&nbsp &nbsp 
+<a href="https://www.codechef.com/users/hiteshk83080"><img src="https://img.shields.io/badge/CodeChef-devhiteshk-grey?logo=codechef&logoColor=black&labelColor=white"></a>
+</p>
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://discord.com/channels/969704147509194853" align="center" onclick='window.open("http://www.foracure.org.au");return false;' target="_blank">
@@ -15,32 +26,6 @@
 	/>
 </a>
 </p>
-<hr />
-
-<!-- Streak -->
-<p align="center">
-<a href="#NoRoute">
-<img align="center" src="https://streak-stats.demolab.com?user=devhiteshk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DDDDDD&ring=DD9F12&fire=DD2727&currStreakNum=BDDD19&sideNums=DDDDDD&sideLabels=96DD52&currStreakLabel=74DDCF&dates=DDDDDD&background=0D1117" alt="My Git stats" />
-</a>
-</p>
-
-<!-- Activity graph -->
-<p align="center">
-<a href="#NoRoute">
-<img align="center" src="https://activity-graph-devhk.herokuapp.com/graph?username=devhiteshk&theme=holi-theme&bg_color=0D1117&color=ffffff&point=ffffff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="My monthly coding activity" />
-</a>
-</p>
-
-<br />
-
-<!-- <details align="center"> #0d1117
-  <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
-	<p align="center">
-		Hi, I'm Hitesh, a MERN stack developer and Automotive Engineer, I am student at Amrita school of Engineering, Coimbatore pursuing M Tech. in Automotive Engineering, I have passion for coding and I love developing full stack websites.<br /><br />
-		Other than coding, I have interests in Food🍔 and Music 🎶. I like to cook 🍳 food and play chess ♟. I spend most of my time building something I like, When I don’t, I watch motivational movies 🎥 <br /><br />
-		I have an introvert personality, so sometimes you might find me busy in my own world. I am highly excited and motivated to become a Software Developer Engineer. <br /><br />
-		I like instrumental music one of my favourite is <a href="https://www.youtube.com/watch?v=3K9P9f3G3l0&ab_channel=JoelNielsenMusic" target="_blank" >Ascension -by Nielsen Music</a>
-	</p> -->
 <hr />
 
 <h3 align="center">Languages and Libraries</h3>
