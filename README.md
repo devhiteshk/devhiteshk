@@ -134,7 +134,7 @@
 	</p>
 	<hr />
 
-<h3 align="center">What do I do?<h3>
+<h3 align="center">What I do?<h3>
 	<table align="center">
 		<tr>
 		<td align="center">
