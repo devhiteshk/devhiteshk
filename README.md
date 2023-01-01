@@ -138,10 +138,11 @@
 
 <h3 align="center">What I do?
 
-<p align="center">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</p>
+
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
 
 <!-- <h3>
 	<table align="center">
