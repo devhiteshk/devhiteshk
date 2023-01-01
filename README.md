@@ -136,12 +136,19 @@
 	</p>
 	<hr />
 
-<h3 align="center">What I do?<h3>
+<h3 align="center">What I do?
+
+<p align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</p>
+
+<!-- <h3>
 	<table align="center">
 		<tr>
 		<td align="center">
 		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/wakatime?username=devhiteshk&theme=calm_cus&bg_color=0D1117&hide_border=true&langs_count=10&v=1">
+			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/wakatime?username=devhiteshk&theme=calm_cus&bg_color=0D1117&hide_border=true&v=1">
 			</a>
 		</td>
 		<td align="center">
@@ -149,7 +156,7 @@
 			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/top-langs/?username=devhiteshk&langs_count=10&layout=compact&theme=calm_cus&bg_color=0D1117&hide_border=true">
 			</a>
 		</td>
-	</table>
+	</table> -->
 <hr />
 
 <!-- Trophies -->
