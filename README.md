@@ -8,7 +8,7 @@
 	<a href="https://polywork.com/" target="_blank" align="center">Polywork</a> -->
 </p>
 
-<p align="center"> 
+<p align="center">
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/devhiteshk/count.svg" />
 </p>
@@ -136,7 +136,7 @@
 	</p>
 	<hr />
 
-<h3 align="center">What I do?<hr />
+<h3 align="center">What I do?</h3>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
