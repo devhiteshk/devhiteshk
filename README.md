@@ -136,12 +136,11 @@
 	</p>
 	<hr />
 
-<h3 align="center">What I do?
+<h3 align="center">What I do?<hr />
 
-<p align="center">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</p>
+
 
 <!-- <h3>
 	<table align="center">
@@ -157,7 +156,7 @@
 			</a>
 		</td>
 	</table> -->
-<hr />
+
 
 <!-- Trophies -->
 <p align="center">
