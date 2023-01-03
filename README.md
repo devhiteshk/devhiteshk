@@ -206,16 +206,16 @@ sortvisualizer-master    1 hr 19 mins        █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 01 January 2023
+From: 29 April 2022 - To: 02 January 2023
 
-Total Time: 316 hrs 58 mins
+Total Time: 326 hrs 5 mins
 
-JavaScript   110 hrs 30 mins >>>>>>>>>----------------   34.86 %
-Python       89 hrs 26 mins  >>>>>>>------------------   28.22 %
-C++          52 hrs 21 mins  >>>>---------------------   16.52 %
-HTML         22 hrs 55 mins  >>-----------------------   07.23 %
-CSS          16 hrs 25 mins  >------------------------   05.18 %
-SCSS         8 hrs           >------------------------   02.53 %
+JavaScript   117 hrs 17 mins >>>>>>>>>----------------   35.97 %
+Python       89 hrs 26 mins  >>>>>>>------------------   27.43 %
+C++          52 hrs 21 mins  >>>>---------------------   16.06 %
+HTML         23 hrs 16 mins  >>-----------------------   07.14 %
+CSS          18 hrs 11 mins  >------------------------   05.58 %
+SCSS         8 hrs           >------------------------   02.46 %
 ```
 
 <!--END_SECTION:waka-simple-->
