@@ -206,16 +206,16 @@ devhiteshk               1 hr 40 mins        ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 05 January 2023
+From: 29 April 2022 - To: 06 January 2023
 
-Total Time: 330 hrs 31 mins
+Total Time: 332 hrs 16 mins
 
-JavaScript   117 hrs 20 mins >>>>>>>>>----------------   35.50 %
-Python       93 hrs 35 mins  >>>>>>>------------------   28.32 %
-C++          52 hrs 36 mins  >>>>---------------------   15.92 %
-HTML         23 hrs 16 mins  >>-----------------------   07.04 %
-CSS          18 hrs 11 mins  >------------------------   05.50 %
-SCSS         8 hrs           >------------------------   02.42 %
+JavaScript   118 hrs 32 mins >>>>>>>>>----------------   35.67 %
+Python       93 hrs 35 mins  >>>>>>>------------------   28.17 %
+C++          52 hrs 36 mins  >>>>---------------------   15.83 %
+HTML         23 hrs 45 mins  >>-----------------------   07.15 %
+CSS          18 hrs 11 mins  >------------------------   05.48 %
+SCSS         8 hrs           >------------------------   02.41 %
 ```
 
 <!--END_SECTION:waka-simple-->
