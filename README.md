@@ -206,16 +206,16 @@ tailwind-css             2 hrs 18 mins       █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 12 January 2023
+From: 29 April 2022 - To: 13 January 2023
 
-Total Time: 355 hrs 38 mins
+Total Time: 365 hrs 32 mins
 
-JavaScript   134 hrs 6 mins  >>>>>>>>>----------------   37.71 %
-Python       97 hrs 42 mins  >>>>>>>------------------   27.48 %
-C++          52 hrs 36 mins  >>>>---------------------   14.79 %
-HTML         26 hrs 31 mins  >>-----------------------   07.46 %
-CSS          18 hrs 16 mins  >------------------------   05.14 %
-SCSS         8 hrs           >------------------------   02.25 %
+JavaScript   138 hrs 23 mins >>>>>>>>>----------------   37.86 %
+Python       97 hrs 42 mins  >>>>>>>------------------   26.73 %
+C++          52 hrs 36 mins  >>>>---------------------   14.39 %
+HTML         26 hrs 31 mins  >>-----------------------   07.26 %
+CSS          18 hrs 16 mins  >------------------------   05.00 %
+SCSS         8 hrs           >------------------------   02.19 %
 ```
 
 <!--END_SECTION:waka-simple-->
