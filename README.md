@@ -206,16 +206,16 @@ CP                       2 hrs 32 mins       █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 16 January 2023
+From: 29 April 2022 - To: 17 January 2023
 
-Total Time: 375 hrs 29 mins
+Total Time: 386 hrs 1 min
 
-JavaScript   140 hrs 33 mins >>>>>>>>>----------------   37.44 %
-Python       97 hrs 42 mins  >>>>>>>------------------   26.02 %
-C++          52 hrs 36 mins  >>>>---------------------   14.01 %
-HTML         28 hrs 3 mins   >>-----------------------   07.47 %
-CSS          19 hrs 41 mins  >------------------------   05.25 %
-SCSS         8 hrs           >------------------------   02.13 %
+JavaScript   148 hrs 26 mins >>>>>>>>>>---------------   38.45 %
+Python       97 hrs 42 mins  >>>>>>-------------------   25.31 %
+C++          52 hrs 36 mins  >>>----------------------   13.63 %
+HTML         28 hrs 15 mins  >>-----------------------   07.32 %
+CSS          19 hrs 55 mins  >------------------------   05.16 %
+SCSS         8 hrs           >------------------------   02.08 %
 ```
 
 <!--END_SECTION:waka-simple-->
