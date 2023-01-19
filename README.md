@@ -206,16 +206,16 @@ Hippo Theme              4 hrs               ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 17 January 2023
+From: 29 April 2022 - To: 18 January 2023
 
-Total Time: 386 hrs 1 min
+Total Time: 401 hrs 13 mins
 
-JavaScript   148 hrs 26 mins >>>>>>>>>>---------------   38.45 %
-Python       97 hrs 42 mins  >>>>>>-------------------   25.31 %
-C++          52 hrs 36 mins  >>>----------------------   13.63 %
-HTML         28 hrs 15 mins  >>-----------------------   07.32 %
-CSS          19 hrs 55 mins  >------------------------   05.16 %
-SCSS         8 hrs           >------------------------   02.08 %
+JavaScript   149 hrs 35 mins >>>>>>>>>----------------   37.28 %
+Python       97 hrs 42 mins  >>>>>>-------------------   24.35 %
+C++          52 hrs 36 mins  >>>----------------------   13.11 %
+HTML         33 hrs 9 mins   >>-----------------------   08.26 %
+CSS          20 hrs 43 mins  >------------------------   05.17 %
+SCSS         16 hrs 6 mins   >------------------------   04.01 %
 ```
 
 <!--END_SECTION:waka-simple-->
