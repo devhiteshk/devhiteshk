@@ -206,16 +206,16 @@ devGram.in               1 hr 26 mins        █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 20 January 2023
+From: 29 April 2022 - To: 21 January 2023
 
-Total Time: 404 hrs 6 mins
+Total Time: 409 hrs 57 mins
 
-JavaScript   150 hrs 39 mins >>>>>>>>>----------------   37.28 %
-Python       97 hrs 42 mins  >>>>>>-------------------   24.18 %
-C++          52 hrs 36 mins  >>>----------------------   13.02 %
-HTML         33 hrs 50 mins  >>-----------------------   08.38 %
-CSS          20 hrs 43 mins  >------------------------   05.13 %
-SCSS         16 hrs 6 mins   >------------------------   03.98 %
+JavaScript   150 hrs 54 mins >>>>>>>>>----------------   36.81 %
+Python       97 hrs 42 mins  >>>>>>-------------------   23.84 %
+C++          52 hrs 36 mins  >>>----------------------   12.83 %
+HTML         35 hrs 50 mins  >>-----------------------   08.74 %
+CSS          20 hrs 45 mins  >------------------------   05.06 %
+SCSS         19 hrs 38 mins  >------------------------   04.79 %
 ```
 
 <!--END_SECTION:waka-simple-->
