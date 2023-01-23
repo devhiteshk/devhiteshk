@@ -206,16 +206,16 @@ code Formatting          1 hr 16 mins        ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 21 January 2023
+From: 29 April 2022 - To: 22 January 2023
 
-Total Time: 409 hrs 57 mins
+Total Time: 420 hrs 46 mins
 
-JavaScript   150 hrs 54 mins >>>>>>>>>----------------   36.81 %
-Python       97 hrs 42 mins  >>>>>>-------------------   23.84 %
-C++          52 hrs 36 mins  >>>----------------------   12.83 %
-HTML         35 hrs 50 mins  >>-----------------------   08.74 %
-CSS          20 hrs 45 mins  >------------------------   05.06 %
-SCSS         19 hrs 38 mins  >------------------------   04.79 %
+JavaScript   153 hrs 2 mins  >>>>>>>>>----------------   36.37 %
+Python       97 hrs 42 mins  >>>>>>-------------------   23.22 %
+C++          52 hrs 36 mins  >>>----------------------   12.50 %
+HTML         39 hrs 27 mins  >>-----------------------   09.38 %
+SCSS         24 hrs 41 mins  >------------------------   05.87 %
+CSS          20 hrs 45 mins  >------------------------   04.93 %
 ```
 
 <!--END_SECTION:waka-simple-->
