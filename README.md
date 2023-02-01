@@ -206,16 +206,16 @@ Unknown Project          14 mins             ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 30 January 2023
+From: 29 April 2022 - To: 31 January 2023
 
-Total Time: 444 hrs
+Total Time: 449 hrs 53 mins
 
-JavaScript   160 hrs 31 mins >>>>>>>>>----------------   36.16 %
-Python       97 hrs 42 mins  >>>>>>-------------------   22.01 %
-C++          52 hrs 36 mins  >>>----------------------   11.85 %
-HTML         45 hrs 54 mins  >>>----------------------   10.34 %
-SCSS         31 hrs 54 mins  >>-----------------------   07.18 %
-CSS          22 hrs 19 mins  >------------------------   05.03 %
+JavaScript   165 hrs 59 mins >>>>>>>>>----------------   36.89 %
+Python       97 hrs 42 mins  >>>>>--------------------   21.72 %
+C++          52 hrs 36 mins  >>>----------------------   11.69 %
+HTML         46 hrs 4 mins   >>>----------------------   10.24 %
+SCSS         31 hrs 54 mins  >>-----------------------   07.09 %
+CSS          22 hrs 19 mins  >------------------------   04.96 %
 ```
 
 <!--END_SECTION:waka-simple-->
