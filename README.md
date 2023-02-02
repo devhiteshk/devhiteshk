@@ -206,16 +206,16 @@ Team-13                  37 mins             █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 31 January 2023
+From: 29 April 2022 - To: 01 February 2023
 
-Total Time: 449 hrs 53 mins
+Total Time: 451 hrs 35 mins
 
-JavaScript   165 hrs 59 mins >>>>>>>>>----------------   36.89 %
-Python       97 hrs 42 mins  >>>>>--------------------   21.72 %
-C++          52 hrs 36 mins  >>>----------------------   11.69 %
-HTML         46 hrs 4 mins   >>>----------------------   10.24 %
-SCSS         31 hrs 54 mins  >>-----------------------   07.09 %
-CSS          22 hrs 19 mins  >------------------------   04.96 %
+JavaScript   167 hrs 38 mins >>>>>>>>>----------------   37.12 %
+Python       97 hrs 42 mins  >>>>>--------------------   21.64 %
+C++          52 hrs 36 mins  >>>----------------------   11.65 %
+HTML         46 hrs 4 mins   >>>----------------------   10.20 %
+SCSS         31 hrs 54 mins  >>-----------------------   07.06 %
+CSS          22 hrs 19 mins  >------------------------   04.94 %
 ```
 
 <!--END_SECTION:waka-simple-->
