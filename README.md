@@ -204,7 +204,7 @@ Test                     1 min               ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 12 February 2023
+From: 29 April 2022 - To: 13 February 2023
 
 Total Time: 453 hrs 51 mins
 
