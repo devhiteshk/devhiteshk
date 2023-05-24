@@ -195,7 +195,7 @@ No Activity Tracked This Week
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 22 May 2023
+From: 29 April 2022 - To: 23 May 2023
 
 Total Time: 453 hrs 51 mins
 
