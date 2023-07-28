@@ -202,7 +202,7 @@ coursespace-landing-page-1 min               ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 26 July 2023
+From: 29 April 2022 - To: 27 July 2023
 
 Total Time: 469 hrs 30 mins
 
