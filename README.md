@@ -202,16 +202,16 @@ FWCTalent                0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 01 August 2023
+From: 29 April 2022 - To: 02 August 2023
 
-Total Time: 477 hrs 50 mins
+Total Time: 481 hrs 53 mins
 
-JavaScript   186 hrs 34 mins >>>>>>>>>>---------------   39.05 %
-Python       97 hrs 42 mins  >>>>>--------------------   20.45 %
-C++          52 hrs 36 mins  >>>----------------------   11.01 %
-HTML         46 hrs 4 mins   >>-----------------------   09.64 %
-SCSS         32 hrs 2 mins   >>-----------------------   06.71 %
-CSS          22 hrs 21 mins  >------------------------   04.68 %
+JavaScript   186 hrs 48 mins >>>>>>>>>>---------------   38.76 %
+Python       97 hrs 42 mins  >>>>>--------------------   20.28 %
+C++          52 hrs 36 mins  >>>----------------------   10.92 %
+HTML         46 hrs 4 mins   >>-----------------------   09.56 %
+SCSS         32 hrs 2 mins   >>-----------------------   06.65 %
+CSS          22 hrs 21 mins  >------------------------   04.64 %
 ```
 
 <!--END_SECTION:waka-simple-->
