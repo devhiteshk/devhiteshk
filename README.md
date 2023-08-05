@@ -201,7 +201,7 @@ FWCTalent                0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 03 August 2023
+From: 29 April 2022 - To: 04 August 2023
 
 Total Time: 481 hrs 55 mins
 
