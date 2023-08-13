@@ -203,16 +203,16 @@ frontend                 4 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 11 August 2023
+From: 29 April 2022 - To: 12 August 2023
 
-Total Time: 491 hrs 14 mins
+Total Time: 495 hrs 17 mins
 
-JavaScript   191 hrs 55 mins >>>>>>>>>>---------------   39.07 %
-Python       97 hrs 42 mins  >>>>>--------------------   19.89 %
-C++          52 hrs 36 mins  >>>----------------------   10.71 %
-HTML         46 hrs 4 mins   >>-----------------------   09.38 %
-SCSS         32 hrs 2 mins   >>-----------------------   06.52 %
-CSS          22 hrs 22 mins  >------------------------   04.56 %
+JavaScript   191 hrs 57 mins >>>>>>>>>>---------------   38.76 %
+Python       97 hrs 42 mins  >>>>>--------------------   19.73 %
+C++          52 hrs 36 mins  >>>----------------------   10.62 %
+HTML         46 hrs 4 mins   >>-----------------------   09.30 %
+SCSS         32 hrs 2 mins   >>-----------------------   06.47 %
+CSS          22 hrs 22 mins  >------------------------   04.52 %
 ```
 
 <!--END_SECTION:waka-simple-->
