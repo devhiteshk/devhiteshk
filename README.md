@@ -203,7 +203,7 @@ frontend                 4 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 12 August 2023
+From: 29 April 2022 - To: 13 August 2023
 
 Total Time: 495 hrs 17 mins
 
