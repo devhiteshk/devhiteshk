@@ -201,16 +201,16 @@ Talent-Client            7 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 20 August 2023
+From: 29 April 2022 - To: 21 August 2023
 
-Total Time: 509 hrs 36 mins
+Total Time: 511 hrs 36 mins
 
-JavaScript   193 hrs 59 mins >>>>>>>>>>---------------   38.07 %
-Python       97 hrs 42 mins  >>>>>--------------------   19.17 %
-C++          52 hrs 36 mins  >>>----------------------   10.32 %
-HTML         46 hrs 4 mins   >>-----------------------   09.04 %
-SCSS         32 hrs 35 mins  >>-----------------------   06.40 %
-TypeScript   31 hrs 47 mins  >>-----------------------   06.24 %
+JavaScript   193 hrs 59 mins >>>>>>>>>----------------   37.92 %
+Python       97 hrs 42 mins  >>>>>--------------------   19.10 %
+C++          52 hrs 36 mins  >>>----------------------   10.28 %
+HTML         46 hrs 4 mins   >>-----------------------   09.01 %
+TypeScript   33 hrs 46 mins  >>-----------------------   06.60 %
+SCSS         32 hrs 35 mins  >>-----------------------   06.37 %
 ```
 
 <!--END_SECTION:waka-simple-->
