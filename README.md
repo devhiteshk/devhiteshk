@@ -203,16 +203,16 @@ FWCTBE                   1 min               ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 22 August 2023
+From: 29 April 2022 - To: 23 August 2023
 
-Total Time: 513 hrs 57 mins
+Total Time: 518 hrs 24 mins
 
-JavaScript   194 hrs 24 mins >>>>>>>>>----------------   37.83 %
-Python       97 hrs 42 mins  >>>>>--------------------   19.01 %
-C++          52 hrs 36 mins  >>>----------------------   10.24 %
-HTML         46 hrs 4 mins   >>-----------------------   08.97 %
-TypeScript   35 hrs 23 mins  >>-----------------------   06.89 %
-SCSS         32 hrs 35 mins  >>-----------------------   06.34 %
+JavaScript   194 hrs 26 mins >>>>>>>>>----------------   37.51 %
+Python       97 hrs 42 mins  >>>>>--------------------   18.85 %
+C++          52 hrs 36 mins  >>>----------------------   10.15 %
+HTML         46 hrs 4 mins   >>-----------------------   08.89 %
+TypeScript   39 hrs 43 mins  >>-----------------------   07.66 %
+SCSS         32 hrs 35 mins  >>-----------------------   06.29 %
 ```
 
 <!--END_SECTION:waka-simple-->
