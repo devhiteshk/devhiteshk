@@ -203,7 +203,7 @@ Talent-Client            11 mins             ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 26 August 2023
+From: 29 April 2022 - To: 27 August 2023
 
 Total Time: 530 hrs 6 mins
 
