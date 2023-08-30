@@ -202,16 +202,16 @@ Crusource                0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 28 August 2023
+From: 29 April 2022 - To: 29 August 2023
 
-Total Time: 538 hrs 22 mins
+Total Time: 544 hrs 52 mins
 
-JavaScript   196 hrs 19 mins >>>>>>>>>----------------   36.47 %
-Python       97 hrs 42 mins  >>>>>--------------------   18.15 %
-TypeScript   57 hrs 34 mins  >>>----------------------   10.69 %
-C++          52 hrs 36 mins  >>-----------------------   09.77 %
-HTML         46 hrs 6 mins   >>-----------------------   08.57 %
-SCSS         32 hrs 41 mins  >>-----------------------   06.07 %
+JavaScript   198 hrs 20 mins >>>>>>>>>----------------   36.40 %
+Python       97 hrs 42 mins  >>>>---------------------   17.93 %
+TypeScript   62 hrs 2 mins   >>>----------------------   11.39 %
+C++          52 hrs 36 mins  >>-----------------------   09.65 %
+HTML         46 hrs 6 mins   >>-----------------------   08.46 %
+SCSS         32 hrs 42 mins  >>-----------------------   06.00 %
 ```
 
 <!--END_SECTION:waka-simple-->
