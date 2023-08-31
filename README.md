@@ -201,16 +201,16 @@ CSFrontend               1 hr 10 mins        █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 29 August 2023
+From: 29 April 2022 - To: 30 August 2023
 
-Total Time: 544 hrs 52 mins
+Total Time: 551 hrs 28 mins
 
-JavaScript   198 hrs 20 mins >>>>>>>>>----------------   36.40 %
-Python       97 hrs 42 mins  >>>>---------------------   17.93 %
-TypeScript   62 hrs 2 mins   >>>----------------------   11.39 %
-C++          52 hrs 36 mins  >>-----------------------   09.65 %
-HTML         46 hrs 6 mins   >>-----------------------   08.46 %
-SCSS         32 hrs 42 mins  >>-----------------------   06.00 %
+JavaScript   199 hrs 34 mins >>>>>>>>>----------------   36.19 %
+Python       97 hrs 42 mins  >>>>---------------------   17.72 %
+TypeScript   67 hrs 25 mins  >>>----------------------   12.23 %
+C++          52 hrs 36 mins  >>-----------------------   09.54 %
+HTML         46 hrs 6 mins   >>-----------------------   08.36 %
+SCSS         32 hrs 42 mins  >------------------------   05.93 %
 ```
 
 <!--END_SECTION:waka-simple-->
