@@ -203,7 +203,7 @@ CSFrontend               4 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 08 September 2023
+From: 29 April 2022 - To: 09 September 2023
 
 Total Time: 592 hrs 26 mins
 
