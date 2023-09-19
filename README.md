@@ -203,16 +203,16 @@ DSA_V3                   1 hr                █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 17 September 2023
+From: 29 April 2022 - To: 18 September 2023
 
-Total Time: 619 hrs 29 mins
+Total Time: 627 hrs 15 mins
 
-JavaScript     207 hrs 48 mins >>>>>>>>-----------------   33.55 %
-TypeScript     123 hrs 40 mins >>>>>--------------------   19.97 %
-Python         98 hrs 36 mins  >>>>---------------------   15.92 %
-C++            52 hrs 36 mins  >>-----------------------   08.49 %
-HTML           46 hrs 22 mins  >>-----------------------   07.48 %
-SCSS           32 hrs 43 mins  >------------------------   05.28 %
+JavaScript     214 hrs 32 mins >>>>>>>>>----------------   34.20 %
+TypeScript     124 hrs 16 mins >>>>>--------------------   19.81 %
+Python         98 hrs 38 mins  >>>>---------------------   15.73 %
+C++            52 hrs 36 mins  >>-----------------------   08.39 %
+HTML           46 hrs 22 mins  >>-----------------------   07.39 %
+SCSS           32 hrs 43 mins  >------------------------   05.22 %
 ```
 
 <!--END_SECTION:waka-simple-->
