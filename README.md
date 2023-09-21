@@ -203,16 +203,16 @@ Data_Structures_-_Algorit14 mins             ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 19 September 2023
+From: 29 April 2022 - To: 20 September 2023
 
-Total Time: 627 hrs 25 mins
+Total Time: 632 hrs 46 mins
 
-JavaScript     214 hrs 32 mins >>>>>>>>>----------------   34.19 %
-TypeScript     124 hrs 26 mins >>>>>--------------------   19.83 %
-Python         98 hrs 38 mins  >>>>---------------------   15.72 %
-C++            52 hrs 36 mins  >>-----------------------   08.38 %
-HTML           46 hrs 22 mins  >>-----------------------   07.39 %
-SCSS           32 hrs 43 mins  >------------------------   05.22 %
+JavaScript     215 hrs 24 mins >>>>>>>>>----------------   34.04 %
+TypeScript     128 hrs 54 mins >>>>>--------------------   20.37 %
+Python         98 hrs 38 mins  >>>>---------------------   15.59 %
+C++            52 hrs 36 mins  >>-----------------------   08.31 %
+HTML           46 hrs 22 mins  >>-----------------------   07.33 %
+SCSS           32 hrs 43 mins  >------------------------   05.17 %
 ```
 
 <!--END_SECTION:waka-simple-->
