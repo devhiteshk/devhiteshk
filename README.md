@@ -203,7 +203,7 @@ Data_Structures_-_Algorit14 mins             ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 20 September 2023
+From: 29 April 2022 - To: 21 September 2023
 
 Total Time: 632 hrs 46 mins
 
