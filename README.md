@@ -203,16 +203,16 @@ app-release              1 hr 23 mins        █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 29 April 2022 - To: 28 September 2023
+From: 29 April 2022 - To: 29 September 2023
 
-Total Time: 656 hrs 29 mins
+Total Time: 661 hrs 45 mins
 
-JavaScript     219 hrs 45 mins >>>>>>>>-----------------   33.47 %
-TypeScript     143 hrs 22 mins >>>>>--------------------   21.84 %
-Python         98 hrs 38 mins  >>>>---------------------   15.03 %
-C++            52 hrs 36 mins  >>-----------------------   08.01 %
-HTML           49 hrs 30 mins  >>-----------------------   07.54 %
-SCSS           32 hrs 43 mins  >------------------------   04.98 %
+JavaScript     219 hrs 49 mins >>>>>>>>-----------------   33.22 %
+TypeScript     148 hrs 33 mins >>>>>>-------------------   22.45 %
+Python         98 hrs 38 mins  >>>>---------------------   14.91 %
+C++            52 hrs 36 mins  >>-----------------------   07.95 %
+HTML           49 hrs 30 mins  >>-----------------------   07.48 %
+SCSS           32 hrs 43 mins  >------------------------   04.94 %
 ```
 
 <!--END_SECTION:waka-simple-->
