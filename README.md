@@ -75,18 +75,10 @@
 				<img align="center" alt="C++" width="30px" src="./blobs/libraries/C++.svg" />
 				<br />C++
 			</td>
-<!-- 			<td align="center" width="96">
-				<img align="center" alt="MATLAB" width="30px" src="./blobs/libraries/MATLAB.svg" />
-				<br />MATLAB
-			</td> -->
 			<td align="center" width="96">
 				<img align="center" alt="NextJS" width="30px" src="./blobs/libraries/next-js.svg" />
 				<br />NextJS
 			</td>
-<!-- 			<td align="center" width="96">
-				<img align="center" alt="Jest" width="30px" src="./blobs/libraries/jest.svg" />
-				<br />Jest
-			</td> -->
 		</tr>
 	</table>
 	</p><hr>
@@ -115,6 +107,10 @@
 				<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
 				<br />Heroku
 			</td>
+			<td align="center" width="96">
+				<img align="center" alt="MATLAB" width="30px" src="./blobs/libraries/MATLAB.svg" />
+				<br />MATLAB
+			</td>
 		</tr>
 		<tr>
 			<td align="center" width="96">
@@ -132,6 +128,10 @@
 			<td align="center" width="96">
 				<img align="center" alt="eslint" width="30px" src="./blobs/tools/eslint.svg" />
 				<br />ESlint
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="Jest" width="30px" src="./blobs/libraries/jest.svg" />
+				<br />Jest
 			</td>
 		</tr>
 	</table>
