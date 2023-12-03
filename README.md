@@ -83,10 +83,10 @@
 				<img align="center" alt="NextJS" width="30px" src="./blobs/libraries/next-js.svg" />
 				<br />NextJS
 			</td>
-			<td align="center" width="96">
+<!-- 			<td align="center" width="96">
 				<img align="center" alt="Jest" width="30px" src="./blobs/libraries/jest.svg" />
 				<br />Jest
-			</td>
+			</td> -->
 		</tr>
 	</table>
 	</p><hr>
@@ -107,22 +107,22 @@
 				<img align="center" alt="auth0" width="30px" src="./blobs/tools/auth0.svg" />
 				<br />Auth0
 			</td>
-			<!-- <td align="center" width="96">
+			<td align="center" width="96">
 				<img align="center" alt="figma" width="30px" src="./blobs/tools/figma.svg" />
 				<br />Figma
-			</td> -->
+			</td>
 			<td align="center" width="96">
 				<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
 				<br />Heroku
 			</td>
-			<!-- <td align="center" width="96">
+			<td align="center" width="96">
 				<img align="center" alt="netlify" width="30px" src="./blobs/tools/netlify.svg" />
 				<br />Netlify
-			</td> -->
-			<!-- <td align="center" width="96">
+			</td>
+			<td align="center" width="96">
 				<img align="center" alt="vercel" width="30px" src="./blobs/tools/vercel.svg" />
 				<br />Vercel
-			</td> -->
+			</td>
 			<td align="center" width="96">
 				<img align="center" alt="prettier" width="30px" src="./blobs/tools/prettier.svg" />
 				<br />Prettier
