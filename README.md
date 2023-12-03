@@ -79,14 +79,14 @@
 				<img align="center" alt="MATLAB" width="30px" src="./blobs/libraries/MATLAB.svg" />
 				<br />MATLAB
 			</td>
-			<!-- <td align="center" width="96">
+			<td align="center" width="96">
 				<img align="center" alt="NextJS" width="30px" src="./blobs/libraries/next-js.svg" />
 				<br />NextJS
-			</td> -->
-			<!-- <td align="center" width="96">
+			</td>
+			<td align="center" width="96">
 				<img align="center" alt="Jest" width="30px" src="./blobs/libraries/jest.svg" />
 				<br />Jest
-			</td> -->
+			</td>
 		</tr>
 	</table>
 	</p><hr>
