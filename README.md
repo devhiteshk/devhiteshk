@@ -75,10 +75,10 @@
 				<img align="center" alt="C++" width="30px" src="./blobs/libraries/C++.svg" />
 				<br />C++
 			</td>
-			<td align="center" width="96">
+<!-- 			<td align="center" width="96">
 				<img align="center" alt="MATLAB" width="30px" src="./blobs/libraries/MATLAB.svg" />
 				<br />MATLAB
-			</td>
+			</td> -->
 			<td align="center" width="96">
 				<img align="center" alt="NextJS" width="30px" src="./blobs/libraries/next-js.svg" />
 				<br />NextJS
@@ -115,6 +115,8 @@
 				<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
 				<br />Heroku
 			</td>
+		</tr>
+		<tr>
 			<td align="center" width="96">
 				<img align="center" alt="netlify" width="30px" src="./blobs/tools/netlify.svg" />
 				<br />Netlify
