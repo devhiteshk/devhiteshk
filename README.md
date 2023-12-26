@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="mailto:me@hiteshk.dev" target="_blank" align="center">Send Email</a> |
-	<a href="https://hiteshk.dev" target="_blank" align="center">Portfolio</a> <!-- |
+	<a href="https://devhiteshk.netlify.app" target="_blank" align="center">Portfolio</a> <!-- |
 	<a href="https://polywork.com/" target="_blank" align="center">Polywork</a> -->
 </p>
 
