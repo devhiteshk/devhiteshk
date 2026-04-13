@@ -157,27 +157,9 @@ SCSS           32 hrs 43 mins  >------------------------   04.94 %
 
 <!--END_SECTION:waka-simple-->
 
-<!-- <h3>
-	<table align="center">
-		<tr>
-		<td align="center">
-		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/wakatime?username=devhiteshk&theme=calm_cus&bg_color=0D1117&hide_border=true&v=1">
-			</a>
-		</td>
-		<td align="center">
-		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/top-langs/?username=devhiteshk&langs_count=10&layout=compact&theme=calm_cus&bg_color=0D1117&hide_border=true">
-			</a>
-		</td>
-	</table> -->
+<!--START_SECTION:my-git-stats-->
 
 
-<!-- Trophies -->
-<p align="center">
-<a href="#NoRoute"><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=devhiteshk&theme=radical&no-frame=true&row=1&column=5&bg_color=0D1117" alt="thexcaliber Trophies" /></div></a></p>
-<hr />
+<!--END_SECTION:my-git-stats-->
 
-<!-- <p align="center">
-<img src="https://leetcard.jacoblin.cool/dev_Dynamic?theme=nord&font=Poppins&ext=activity" title="my leetcode stats">
-</p> -->
+
