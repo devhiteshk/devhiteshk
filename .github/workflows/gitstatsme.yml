@@ -26,4 +26,3 @@ jobs:
           COMMIT_MESSAGE: 'chore: update git stats dashboard'
           SHOW_PRIVATE: 'false'
           MAX_REPOS: '0'
-          OUTPUT_FILE: 'stats.svg'   # optional: also write a standalone SVG
