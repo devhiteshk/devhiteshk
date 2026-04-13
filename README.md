@@ -9,6 +9,19 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 29 April 2022 - To: 12 April 2026
+
+Total Time: 1,760 hrs 8 mins
+
+JavaScript       851 hrs               >>>>>>>>>>>>-------------   48.35 %
+TypeScript       497 hrs 43 mins       >>>>>>>------------------   28.28 %
+Python           127 hrs 44 mins       >>-----------------------   07.26 %
+HTML             57 hrs 36 mins        >------------------------   03.27 %
+C++              52 hrs 36 mins        >------------------------   02.99 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:my-git-stats-->
