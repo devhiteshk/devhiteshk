@@ -9,19 +9,61 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C761%20hrs%2035%20mins-blue?style=flat)
 
-```txt
-From: 29 April 2022 - To: 12 April 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.51%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 1,760 hrs 8 mins
+**🐱 My GitHub Data** 
 
-JavaScript       851 hrs               >>>>>>>>>>>>-------------   48.35 %
-TypeScript       497 hrs 43 mins       >>>>>>>------------------   28.28 %
-Python           127 hrs 44 mins       >>-----------------------   07.26 %
-HTML             57 hrs 36 mins        >------------------------   03.27 %
-C++              52 hrs 36 mins        >------------------------   02.99 %
+> 📦 447.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 18 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 101 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+🌆 Daytime                372 commits         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+🌃 Evening                1025 commits        ████████████████░░░░░░░░░   63.19 % 
+🌙 Night                  53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Tuesday                  315 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Wednesday                233 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Thursday                 173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Friday                   202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Saturday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Sunday                   238 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               7 hrs 1 min         █████████████████████░░░░   82.70 % 
+Bash                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🐱‍💻 Projects: 
+Gitstats-MERN            8 hrs 29 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 13/04/2026 15:55:59 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:my-git-stats-->
