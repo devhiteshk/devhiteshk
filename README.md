@@ -1,7 +1,8 @@
 
 <p align="center">
 <img src="./assets/meteor.png" width="200" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Calligraffitti&size=35&pause=2000&color=F73867&multiline=true&width=435&height=150&lines=Hey+there!+I'm+Hitesh+👋;Full+Stack+Developer+🚀;AI Enabled Development+🤖" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Calligraffitti&size=35&pause=2000&color=F73867&multiline=true&width=435&height=150&lines=Hey+there!+I'm+Hitesh+👋;Full+Stack+Developer+🚀;AI+Enabled+Development+🤖" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -37,7 +38,7 @@
   align="left"
   src="./assets/busy work.gif" 
   width="480"
-  style="transform: rotate(-90deg); border-radius:12px; margin-right:20px;" 
+  style="transform: rotate(-90deg); border-radius:12px; margin-right:20px; padding-right:20px" 
 />
 
 Software Development Engineer at **Omind.ai** with **2.4 years** of experience building production-grade full-stack applications. I specialize in **AI-powered tools** — from intelligent Git analytics to conversational chatbots that actually work. Passionate about bridging the gap between LLMs and real-world products.
