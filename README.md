@@ -180,13 +180,6 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/devhiteshk/devhiteshk/main/assets/bar_graph.png)
-
-
  Last Updated on 14/04/2026 04:54:38 UTC
 <!--END_SECTION:waka-->
 
