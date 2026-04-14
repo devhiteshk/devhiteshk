@@ -38,6 +38,7 @@
   align="left"
   src="./assets/busy work.gif" 
   width="480"
+  hspace="20"
   style="transform: rotate(-90deg); border-radius:12px; margin-right:20px; padding-right:20px" 
 />
 
