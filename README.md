@@ -116,7 +116,86 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C762%20hrs%2039%20mins-blue?style=flat)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.49%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 450.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 22 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 101 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+🌆 Daytime                367 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+🌃 Evening                1016 commits        ████████████████░░░░░░░░░   63.26 % 
+🌙 Night                  53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Tuesday                  308 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Wednesday                233 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Thursday                 173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Friday                   202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Saturday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Sunday                   238 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               6 hrs 44 mins       ████████████████████░░░░░   80.56 % 
+Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+
+🔥 Editors: 
+VS Code                  8 hrs 21 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Gitstats-MERN            8 hrs 2 mins        ████████████████████████░   96.18 % 
+GitStatsMe               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+
+💻 Operating System: 
+Mac                      8 hrs 21 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               23 repos            █████████░░░░░░░░░░░░░░░░   36.51 % 
+TypeScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/devhiteshk/devhiteshk/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/04/2026 04:54:38 UTC
 <!--END_SECTION:waka-->
 
 ---
