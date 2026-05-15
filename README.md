@@ -108,13 +108,13 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C769%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C769%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.51%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 468.5 kB Used in GitHub's Storage 
+> 📦 468.6 kB Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2026
  > 
@@ -124,45 +124,6 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-🌆 Daytime                367 commits         ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-🌃 Evening                1017 commits        ████████████████░░░░░░░░░   63.29 % 
-🌙 Night                  53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   231 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Tuesday                  313 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Wednesday                233 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Thursday                 173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Friday                   202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Saturday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   238 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -176,7 +137,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 16:27:26 UTC
+ Last Updated on 15/05/2026 16:19:57 UTC
 <!--END_SECTION:waka-->
 
 ---
