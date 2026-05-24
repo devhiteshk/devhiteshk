@@ -108,6 +108,8 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C771%20hrs%2017%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.51%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -149,16 +151,20 @@ Sunday                   243 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 11 mins        ████████████████████████░   94.37 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Kiro                     1 hr 16 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Gitstats-MERN            1 hr 16 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,7 +180,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 15:39:49 UTC
+ Last Updated on 24/05/2026 15:43:47 UTC
 <!--END_SECTION:waka-->
 
 ---
