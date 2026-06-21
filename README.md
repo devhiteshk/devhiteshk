@@ -37,11 +37,9 @@
 Software Development Engineer at **Omind.ai** with **2.4 years** of experience building production-grade full-stack applications. I specialize in **AI-powered tools** — from intelligent Git analytics to conversational chatbots that actually work. Passionate about bridging the gap between LLMs and real-world products.
 
 - 💼 SDE @ **Omind.ai**
-- 🤖 Building AI tools — Git Stats & Chatbots
+- 🤖 Building and Exploring AI tools and Web Apps
 - 💻 Mostly code in **JavaScript** & **TypeScript**
 - 🌙 Night owl — most productive after sunset
-- 📍 Based in **Bangalore, India**
-- � Open to hire
 
 ---
 
