@@ -106,8 +106,6 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C804%20hrs%2018%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -149,25 +147,25 @@ Sunday                   475 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-JavaScript               1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-Other                    49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Bash                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+JavaScript               1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+TypeScript               52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Bash                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 13 mins       ████████████████████████░   95.50 % 
-Kiro                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+VS Code                  4 hrs 25 mins       ████████████████████████░   94.73 % 
+Kiro                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🐱‍💻 Projects: 
-quantari-solutions       1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-notes                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Homie_101                40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Gitstats-MERN            34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-website                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+notes                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Homie_101                40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+AI:ML                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Gitstats-MERN            34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+website                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
 
 💻 Operating System: 
-Mac                      5 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -183,7 +181,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 16:09:08 UTC
+ Last Updated on 24/07/2026 15:55:49 UTC
 <!--END_SECTION:waka-->
 
 ---
