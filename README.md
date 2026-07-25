@@ -106,7 +106,9 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.84%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C805%20hrs%2018%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.85%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -123,21 +125,21 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-🌆 Daytime                585 commits         ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-🌃 Evening                1257 commits        █████████████░░░░░░░░░░░░   52.48 % 
-🌙 Night                  273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+🌞 Morning                282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+🌆 Daytime                587 commits         ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+🌃 Evening                1258 commits        █████████████░░░░░░░░░░░░   52.42 % 
+🌙 Night                  273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Tuesday                  365 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Wednesday                343 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Thursday                 210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Friday                   357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Saturday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Sunday                   475 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Monday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Tuesday                  365 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Wednesday                343 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Thursday                 210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Friday                   357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Saturday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Sunday                   480 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
@@ -147,25 +149,25 @@ Sunday                   475 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   26.27 % 
-TypeScript               52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Bash                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+JavaScript               1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+TypeScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Python                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 25 mins       ████████████████████████░   94.73 % 
-Kiro                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+VS Code                  3 hrs 56 mins       ████████████████████████░   94.13 % 
+Kiro                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🐱‍💻 Projects: 
-notes                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Homie_101                40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-AI:ML                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Gitstats-MERN            34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-website                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+notes                    48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Homie_101                40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+AI:ML                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Gitstats-MERN            34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+website                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 
 💻 Operating System: 
-Mac                      4 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -181,7 +183,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 15:55:49 UTC
+ Last Updated on 25/07/2026 15:39:35 UTC
 <!--END_SECTION:waka-->
 
 ---
