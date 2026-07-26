@@ -149,25 +149,25 @@ Sunday                   480 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-TypeScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Python                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Python                   1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+JavaScript               1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+TypeScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       ████████████████████████░   94.13 % 
-Kiro                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+VS Code                  3 hrs 59 mins       ████████████████████████░   94.19 % 
+Kiro                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 
 🐱‍💻 Projects: 
-notes                    48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Homie_101                40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-AI:ML                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Gitstats-MERN            34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-website                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+AI:ML                    1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+notes                    48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Homie_101                40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Gitstats-MERN            34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+gitstats-v2              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
 
 💻 Operating System: 
-Mac                      4 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -183,7 +183,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 15:39:35 UTC
+ Last Updated on 26/07/2026 15:39:41 UTC
 <!--END_SECTION:waka-->
 
 ---
