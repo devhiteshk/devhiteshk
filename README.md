@@ -106,7 +106,9 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C805%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C797%20hrs%2027%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -149,25 +151,44 @@ Sunday                   480 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-JavaScript               1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-TypeScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Python                   1 hr 14 mins        ████████████████████░░░░░   78.51 % 
+TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 59 mins       ████████████████████████░   94.19 % 
-Kiro                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+VS Code                  1 hr 20 mins        █████████████████████░░░░   84.44 % 
+Kiro                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 
 🐱‍💻 Projects: 
-AI:ML                    1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-notes                    48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Homie_101                40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Gitstats-MERN            34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-gitstats-v2              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+AI:ML                    1 hr 14 mins        ████████████████████░░░░░   78.55 % 
+Country_State_City_API   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+hkdev                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+vite-emailbuilder-mui    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 💻 Operating System: 
-Mac                      4 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 mins (17.13%)
+
+✍️ 0 lines written by AI, 470 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 11 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 35 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -183,7 +204,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 15:39:41 UTC
+ Last Updated on 27/07/2026 16:39:45 UTC
 <!--END_SECTION:waka-->
 
 ---
