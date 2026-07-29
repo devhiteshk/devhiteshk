@@ -151,44 +151,23 @@ Sunday                   480 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 14 mins        ████████████████████░░░░░   78.51 % 
-TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Python                   48 mins             █████████████████████████   99.91 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████░░░░   84.44 % 
-Kiro                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AI:ML                    1 hr 14 mins        ████████████████████░░░░░   78.55 % 
-Country_State_City_API   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-hkdev                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-vite-emailbuilder-mui    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+AI:ML                    48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
+Mac                      48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (17.13%)
-
-✍️ 0 lines written by AI, 470 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 11 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 35 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -204,7 +183,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 16:20:09 UTC
+ Last Updated on 29/07/2026 16:02:45 UTC
 <!--END_SECTION:waka-->
 
 ---
