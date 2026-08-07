@@ -106,17 +106,13 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C803%20hrs%2043%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2031%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.89%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.93%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 362.4 kB Used in GitHub's Storage 
  > 
-> 🏆 383 Contributions in the Year 2026
+> 🏆 384 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -127,21 +123,21 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-🌆 Daytime                593 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-🌃 Evening                1265 commits        █████████████░░░░░░░░░░░░   52.01 % 
-🌙 Night                  279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+🌞 Morning                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+🌆 Daytime                601 commits         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+🌃 Evening                1270 commits        █████████████░░░░░░░░░░░░   51.71 % 
+🌙 Night                  281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Tuesday                  367 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Wednesday                345 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Thursday                 210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Friday                   357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Saturday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Sunday                   492 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Tuesday                  372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Wednesday                345 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Thursday                 224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Friday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Saturday                 325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Sunday                   492 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
 ```
 
 
@@ -151,46 +147,46 @@ Sunday                   492 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Svelte                   5 hrs 29 mins       ████████████████░░░░░░░░░   64.97 % 
-CSS                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-TypeScript               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Svelte                   8 hrs 24 mins       ██████████████████░░░░░░░   72.04 % 
+CSS                      1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-code_fragments           3 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.44 % 
-Social Media             3 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.09 % 
-uptime-monitoring-system 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-notes                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Homie_101                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+code_fragments           6 hrs 53 mins       ███████████████░░░░░░░░░░   59.01 % 
+Social Media             3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.23 % 
+uptime-monitoring-system 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+notes                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Homie_101                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Mac                      8 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 29 mins (53.12%)
+⏱ AI Coding Time: 6 hrs 7 mins (52.46%)
 
-✍️ 760 lines written by AI, 1,166 lines written by hand (39.46% AI-written)
+✍️ 968 lines written by AI, 2,118 lines written by hand (31.37% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 57 AI Prompts
+🧠 10 AI Sessions, 63 AI Prompts
 
-Kiro                     1,091 lines         █████████████████████████   100.00 % 
+Kiro                     1,306 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.46% of written lines came from AI
-📝 Concise Prompter — average 281 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 77.57% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 31.37% of written lines came from AI
+📝 Concise Prompter — average 262 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 84.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -206,7 +202,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 16:16:36 UTC
+ Last Updated on 07/08/2026 15:25:07 UTC
 <!--END_SECTION:waka-->
 
 ---
