@@ -106,13 +106,17 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C809%20hrs%2011%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2027%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.93%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 362.4 kB Used in GitHub's Storage 
  > 
-> 🏆 384 Contributions in the Year 2026
+> 🏆 385 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -123,21 +127,21 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-🌆 Daytime                601 commits         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-🌃 Evening                1270 commits        █████████████░░░░░░░░░░░░   51.71 % 
+🌞 Morning                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+🌆 Daytime                602 commits         ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+🌃 Evening                1270 commits        █████████████░░░░░░░░░░░░   51.69 % 
 🌙 Night                  281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Tuesday                  372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Wednesday                345 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Tuesday                  372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Wednesday                345 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
 Thursday                 224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Friday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Saturday                 325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Sunday                   492 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Friday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Saturday                 326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Sunday                   492 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
 ```
 
 
@@ -147,32 +151,32 @@ Sunday                   492 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Svelte                   8 hrs 24 mins       ██████████████████░░░░░░░   72.04 % 
-CSS                      1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Svelte                   8 hrs 34 mins       ██████████████████░░░░░░░   72.43 % 
+CSS                      1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-code_fragments           6 hrs 53 mins       ███████████████░░░░░░░░░░   59.01 % 
-Social Media             3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.23 % 
-uptime-monitoring-system 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-notes                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Homie_101                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+code_fragments           7 hrs 3 mins        ███████████████░░░░░░░░░░   59.61 % 
+Social Media             3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
+uptime-monitoring-system 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+notes                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Homie_101                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Mac                      11 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 7 mins (52.46%)
+⏱ AI Coding Time: 6 hrs 7 mins (51.7%)
 
-✍️ 968 lines written by AI, 2,118 lines written by hand (31.37% AI-written)
+✍️ 968 lines written by AI, 2,254 lines written by hand (30.04% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -183,10 +187,10 @@ Mac                      11 hrs 40 mins      ███████████�
 Kiro                     1,306 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 31.37% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 30.04% of written lines came from AI
 📝 Concise Prompter — average 262 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 84.41% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 85.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -202,7 +206,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 15:25:07 UTC
+ Last Updated on 08/08/2026 14:59:39 UTC
 <!--END_SECTION:waka-->
 
 ---
