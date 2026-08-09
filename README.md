@@ -106,9 +106,9 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C809%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C812%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.93%20million%20lines%20of%20code-blue?style=flat)
 
@@ -151,46 +151,46 @@ Sunday                   492 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Svelte                   8 hrs 34 mins       ██████████████████░░░░░░░   72.43 % 
-CSS                      1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Svelte                   11 hrs 14 mins      ███████████████████░░░░░░   76.69 % 
+CSS                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 50 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-code_fragments           7 hrs 3 mins        ███████████████░░░░░░░░░░   59.61 % 
-Social Media             3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
-uptime-monitoring-system 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-notes                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Homie_101                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+code_fragments           9 hrs 44 mins       █████████████████░░░░░░░░   66.41 % 
+Social Media             3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+uptime-monitoring-system 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+a-single-div             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+notes                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Mac                      11 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 7 mins (51.7%)
+⏱ AI Coding Time: 6 hrs 31 mins (44.52%)
 
-✍️ 968 lines written by AI, 2,254 lines written by hand (30.04% AI-written)
+✍️ 1,103 lines written by AI, 3,810 lines written by hand (22.45% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 63 AI Prompts
+🧠 11 AI Sessions, 65 AI Prompts
 
-Kiro                     1,306 lines         █████████████████████████   100.00 % 
+Kiro                     1,547 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.04% of written lines came from AI
-📝 Concise Prompter — average 262 characters per prompt
+🧑‍💻 Mostly Hands-On — 22.45% of written lines came from AI
+📝 Concise Prompter — average 257 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 85.02% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -206,7 +206,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 14:59:39 UTC
+ Last Updated on 09/08/2026 15:02:36 UTC
 <!--END_SECTION:waka-->
 
 ---
