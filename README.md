@@ -151,46 +151,44 @@ Sunday                   492 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Svelte                   11 hrs 14 mins      ████████████████████░░░░░   79.65 % 
-CSS                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Svelte                   7 hrs 27 mins       ██████████████████████░░░   89.13 % 
+CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Stylus                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-code_fragments           9 hrs 44 mins       █████████████████░░░░░░░░   68.98 % 
-Social Media             3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-uptime-monitoring-system 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-a-single-div             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-notes                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+code_fragments           8 hrs 13 mins       █████████████████████████   98.33 % 
+a-single-div             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Social Media             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      14 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 1 min (42.69%)
+⏱ AI Coding Time: 2 hrs 20 mins (27.95%)
 
-✍️ 1,015 lines written by AI, 3,772 lines written by hand (21.2% AI-written)
+✍️ 526 lines written by AI, 3,056 lines written by hand (14.68% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 64 AI Prompts
+🧠 5 AI Sessions, 9 AI Prompts
 
-Kiro                     1,244 lines         █████████████████████████   100.00 % 
+Kiro                     665 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 21.2% of written lines came from AI
-📝 Concise Prompter — average 260 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 92.69% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 14.68% of written lines came from AI
+📝 Concise Prompter — average 79 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 95.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -206,7 +204,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 15:32:04 UTC
+ Last Updated on 11/08/2026 15:30:19 UTC
 <!--END_SECTION:waka-->
 
 ---
