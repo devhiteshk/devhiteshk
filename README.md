@@ -151,44 +151,44 @@ Sunday                   492 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Svelte                   7 hrs 27 mins       ██████████████████████░░░   89.13 % 
-CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Stylus                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Svelte                   5 hrs 47 mins       ███████████████████████░░   92.72 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Stylus                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-code_fragments           8 hrs 13 mins       █████████████████████████   98.33 % 
-a-single-div             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Social Media             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+code_fragments           6 hrs 6 mins        ████████████████████████░   97.76 % 
+a-single-div             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Social Media             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      8 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 20 mins (27.95%)
+⏱ AI Coding Time: 2 hrs 2 mins (32.61%)
 
-✍️ 526 lines written by AI, 3,056 lines written by hand (14.68% AI-written)
+✍️ 471 lines written by AI, 2,646 lines written by hand (15.11% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 9 AI Prompts
+🧠 4 AI Sessions, 8 AI Prompts
 
-Kiro                     665 lines           █████████████████████████   100.00 % 
+Kiro                     584 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.68% of written lines came from AI
-📝 Concise Prompter — average 79 characters per prompt
+🧑‍💻 Mostly Hands-On — 15.11% of written lines came from AI
+📝 Concise Prompter — average 85 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 95.48% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -204,7 +204,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 15:30:19 UTC
+ Last Updated on 12/08/2026 15:30:15 UTC
 <!--END_SECTION:waka-->
 
 ---
