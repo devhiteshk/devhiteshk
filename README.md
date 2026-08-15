@@ -116,11 +116,11 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 
 > 📦 362.4 kB Used in GitHub's Storage 
  > 
-> 🏆 385 Contributions in the Year 2026
+> 🏆 386 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 96 Public Repositories 
+> 📜 97 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -151,30 +151,30 @@ Sunday                   492 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Svelte                   2 hrs 52 mins       ████████████████████████░   94.97 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Stylus                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Svelte                   2 hrs 39 mins       ████████████████████████░   94.67 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Stylus                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  2 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-code_fragments           2 hrs 52 mins       ████████████████████████░   95.47 % 
-a-single-div             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Social Media             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+code_fragments           2 hrs 40 mins       ████████████████████████░   95.12 % 
+a-single-div             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Social Media             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Mac                      3 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (13.23%)
+⏱ AI Coding Time: 23 mins (14.23%)
 
-✍️ 135 lines written by AI, 1,694 lines written by hand (7.38% AI-written)
+✍️ 135 lines written by AI, 1,556 lines written by hand (7.98% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -185,10 +185,10 @@ Mac                      3 hrs 1 min         ███████████�
 Kiro                     241 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.38% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 7.98% of written lines came from AI
 📝 Concise Prompter — average 91 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 97.32% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -204,7 +204,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 15:16:37 UTC
+ Last Updated on 15/08/2026 14:48:33 UTC
 <!--END_SECTION:waka-->
 
 ---
