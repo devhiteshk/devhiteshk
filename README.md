@@ -151,44 +151,22 @@ Sunday                   492 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 mins              █████████████░░░░░░░░░░░░   53.41 % 
-CSS                      1 min               ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Svelte                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Test                     6 mins              █████████████████████░░░░   85.60 % 
-code_fragments           0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (41.66%)
-
-✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Kiro                     1 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 136 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 50.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -204,7 +182,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 14:47:46 UTC
+ Last Updated on 23/08/2026 14:49:42 UTC
 <!--END_SECTION:waka-->
 
 ---
