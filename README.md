@@ -151,16 +151,21 @@ Sunday                   493 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Svelte                   0 secs              █████████████████████████   100.00 % 
+TypeScript               4 mins              ████████████████████░░░░░   78.68 % 
+HTML                     1 min               █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Svelte                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-code_fragments           0 secs              █████████████████████████   100.00 % 
+portfolio                4 mins              ████████████████████░░░░░   78.68 % 
+projects_r               1 min               █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+code_fragments           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -182,7 +187,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 18:10:08 UTC
+ Last Updated on 31/08/2026 20:17:38 UTC
 <!--END_SECTION:waka-->
 
 ---
