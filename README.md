@@ -106,7 +106,7 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C812%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C812%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2054%20mins-blue?style=flat)
 
@@ -151,18 +151,16 @@ Sunday                   493 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 mins              ████████████████████░░░░░   78.68 % 
-HTML                     1 min               █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Svelte                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+TypeScript               4 mins              ████████████████████░░░░░   79.16 % 
+HTML                     1 min               █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
 VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                4 mins              ████████████████████░░░░░   78.68 % 
-projects_r               1 min               █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-code_fragments           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+portfolio                4 mins              ████████████████████░░░░░   79.16 % 
+projects_r               1 min               █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
 
 💻 Operating System: 
 Mac                      6 mins              █████████████████████████   100.00 % 
@@ -187,7 +185,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 20:17:38 UTC
+ Last Updated on 01/09/2026 17:56:40 UTC
 <!--END_SECTION:waka-->
 
 ---
