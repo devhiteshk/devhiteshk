@@ -151,19 +151,22 @@ Sunday                   493 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 mins              ████████████████████░░░░░   79.16 % 
-HTML                     1 min               █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+TypeScript               8 mins              ████████░░░░░░░░░░░░░░░░░   33.60 % 
+JSON                     6 mins              ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                4 mins              ████████████████████░░░░░   79.16 % 
-projects_r               1 min               █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Projects                 19 mins             ███████████████████░░░░░░   75.48 % 
+portfolio                4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+projects_r               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -185,7 +188,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 17:56:40 UTC
+ Last Updated on 02/09/2026 18:00:52 UTC
 <!--END_SECTION:waka-->
 
 ---
