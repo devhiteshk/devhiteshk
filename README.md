@@ -106,7 +106,7 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C812%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C812%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2054%20mins-blue?style=flat)
 
@@ -151,22 +151,22 @@ Sunday                   493 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 mins              ████████░░░░░░░░░░░░░░░░░   33.60 % 
-JSON                     6 mins              ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+TypeScript               1 hr 17 mins        ███████████░░░░░░░░░░░░░░   42.78 % 
+JSON                     1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   34.34 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Projects                 19 mins             ███████████████████░░░░░░   75.48 % 
-portfolio                4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-projects_r               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Projects                 2 hrs 55 mins       ████████████████████████░   96.60 % 
+portfolio                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+projects_r               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+Mac                      3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -188,7 +188,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 18:00:52 UTC
+ Last Updated on 03/09/2026 17:58:56 UTC
 <!--END_SECTION:waka-->
 
 ---
