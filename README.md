@@ -151,22 +151,22 @@ Sunday                   493 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   38.86 % 
-JSON                     1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   31.20 % 
-Text                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+TypeScript               1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   35.46 % 
+JSON                     1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+Text                     52 mins             ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Projects                 3 hrs 14 mins       ████████████████████████░   96.91 % 
-portfolio                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-projects_r               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Projects                 3 hrs 43 mins       ████████████████████████░   97.30 % 
+portfolio                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+projects_r               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Mac                      3 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -188,7 +188,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 17:43:46 UTC
+ Last Updated on 05/09/2026 16:55:54 UTC
 <!--END_SECTION:waka-->
 
 ---
