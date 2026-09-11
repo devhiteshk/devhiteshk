@@ -116,32 +116,32 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 
 > 📦 363.9 kB Used in GitHub's Storage 
  > 
-> 🏆 405 Contributions in the Year 2026
+> 🏆 415 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 98 Public Repositories 
+> 📜 99 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-🌆 Daytime                602 commits         ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-🌃 Evening                1272 commits        █████████████░░░░░░░░░░░░   51.39 % 
-🌙 Night                  297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+🌞 Morning                307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+🌆 Daytime                603 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+🌃 Evening                1276 commits        █████████████░░░░░░░░░░░░   51.37 % 
+🌙 Night                  298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Tuesday                  376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Wednesday                347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Thursday                 235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Friday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Saturday                 326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Sunday                   493 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Tuesday                  376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Wednesday                347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Thursday                 238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Friday                   366 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Saturday                 326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Sunday                   493 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
 ```
 
 
@@ -151,23 +151,23 @@ Sunday                   493 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-Bash                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Other                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-TypeScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+JavaScript               1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+TypeScript               55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Bash                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Test1                    1 hr 29 mins        ███████████░░░░░░░░░░░░░░   42.23 % 
-Projects                 47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-uptime-monitoring-system 44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-dsa-platform             31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+uptime-monitoring-system 2 hrs 25 mins       ████████████░░░░░░░░░░░░░   49.07 % 
+Test1                    1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   30.40 % 
+dsa-platform             31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Projects                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 
 💻 Operating System: 
-Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -179,17 +179,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               22 repos            ████████░░░░░░░░░░░░░░░░░   31.88 % 
-TypeScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JavaScript               22 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
+TypeScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 
 
 
- Last Updated on 10/09/2026 17:48:51 UTC
+ Last Updated on 11/09/2026 17:50:46 UTC
 <!--END_SECTION:waka-->
 
 ---
