@@ -116,7 +116,7 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 
 > 📦 363.9 kB Used in GitHub's Storage 
  > 
-> 🏆 418 Contributions in the Year 2026
+> 🏆 419 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -127,20 +127,20 @@ Software Development Engineer at **Omind.ai** with **2.4 years** of experience b
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-🌆 Daytime                605 commits         ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-🌃 Evening                1277 commits        █████████████░░░░░░░░░░░░   51.35 % 
+🌞 Morning                308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+🌆 Daytime                605 commits         ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+🌃 Evening                1277 commits        █████████████░░░░░░░░░░░░   51.33 % 
 🌙 Night                  298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Tuesday                  376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Tuesday                  376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
 Wednesday                347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 Thursday                 238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Friday                   366 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Saturday                 328 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Friday                   366 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Saturday                 328 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 Sunday                   494 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
 ```
 
@@ -151,22 +151,20 @@ Sunday                   494 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-TypeScript               52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Bash                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+JavaScript               1 hr 12 mins        ████████████░░░░░░░░░░░░░   49.09 % 
+TypeScript               38 mins             ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+CSS                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-uptime-monitoring-system 2 hrs 27 mins       ██████████████░░░░░░░░░░░   54.78 % 
-Test1                    1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   33.45 % 
-dsa-platform             31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+uptime-monitoring-system 2 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -188,7 +186,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 17:32:59 UTC
+ Last Updated on 14/09/2026 19:33:27 UTC
 <!--END_SECTION:waka-->
 
 ---
