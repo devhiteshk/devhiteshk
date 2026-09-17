@@ -151,20 +151,20 @@ Sunday                   494 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr                █████████████░░░░░░░░░░░░   53.55 % 
-TypeScript               33 mins             ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-CSS                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+JavaScript               49 mins             ████████████░░░░░░░░░░░░░   49.22 % 
+TypeScript               32 mins             ████████░░░░░░░░░░░░░░░░░   32.55 % 
+CSS                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-uptime-monitoring-system 1 hr 52 mins        █████████████████████████   100.00 % 
+uptime-monitoring-system 1 hr 41 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -186,7 +186,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 18:19:48 UTC
+ Last Updated on 17/09/2026 18:26:41 UTC
 <!--END_SECTION:waka-->
 
 ---
